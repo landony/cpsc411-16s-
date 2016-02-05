@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0460"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,65 +14,70 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "038D933B17CBE76F00F3ADD1"
-               BuildableName = "HelloCS411.app"
-               BlueprintName = "HelloCS411"
-               ReferencedContainer = "container:HelloCS411.xcodeproj">
+               BlueprintIdentifier = "319BE5621C614C0B001F0067"
+               BuildableName = "asgt2"
+               BlueprintName = "asgt2"
+               ReferencedContainer = "container:asgt2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "038D933B17CBE76F00F3ADD1"
-            BuildableName = "HelloCS411.app"
-            BlueprintName = "HelloCS411"
-            ReferencedContainer = "container:HelloCS411.xcodeproj">
+            BlueprintIdentifier = "319BE5621C614C0B001F0067"
+            BuildableName = "asgt2"
+            BlueprintName = "asgt2"
+            ReferencedContainer = "container:asgt2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "038D933B17CBE76F00F3ADD1"
-            BuildableName = "HelloCS411.app"
-            BlueprintName = "HelloCS411"
-            ReferencedContainer = "container:HelloCS411.xcodeproj">
+            BlueprintIdentifier = "319BE5621C614C0B001F0067"
+            BuildableName = "asgt2"
+            BlueprintName = "asgt2"
+            ReferencedContainer = "container:asgt2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "038D933B17CBE76F00F3ADD1"
-            BuildableName = "HelloCS411.app"
-            BlueprintName = "HelloCS411"
-            ReferencedContainer = "container:HelloCS411.xcodeproj">
+            BlueprintIdentifier = "319BE5621C614C0B001F0067"
+            BuildableName = "asgt2"
+            BlueprintName = "asgt2"
+            ReferencedContainer = "container:asgt2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
